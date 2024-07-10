@@ -1,0 +1,8 @@
+const a = require("os")
+console.log(a.freemem())
+console.log(a.homedir())
+console.log(a.hostname())
+console.log(a.platform())
+console.log(a.release())
+console.log(a.uptime())
+console.log(a.type())
